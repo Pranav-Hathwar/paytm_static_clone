@@ -1,4 +1,5 @@
 # paytm_static_clone
-used html and external css to create a static paytm clone web page.
-suitable only on 67% size of the browser.
+Used html and external css to create a static paytm clone web page.
+Suitable only on 67% size of the browser.
 It is not responsive.
+This was my first attept of cloning and it is not responsive.
